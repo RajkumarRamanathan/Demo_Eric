@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<color name="colorPrimary">#BA68C8</color>
+<color name="colorPrimaryDark">#AB47BC</color>
+<color name="textColorPrimary">#FFFFFF</color>
+<color name="windowBackground">#FFFFFF</color>
+<color name="navigationBarColor">#000000</color>
+<color name="colorAccent">#8E24AA</color>
+<color name="light_gray">#E1BEE7</color>
+<color name="blue">#F3E5F5</color>
+<color name="hyperlink">#2196F3</color>
+
+
+</resources>
